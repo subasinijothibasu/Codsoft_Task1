@@ -1,0 +1,187 @@
+
+body {
+    background-color: #E6E6FA; 
+    font-family: Arial, sans-serif;
+}
+
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: #78C7C7;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 18px;
+    font-style: italic;
+}
+
+
+#about {
+    background-color: #fff;
+    padding: 40px;
+    text-align: center;
+}
+
+
+.size-image {
+    width: 200px; 
+    height: 200px; 
+}
+
+
+.size-project {
+    width: 400px; 
+    height: 200px; 
+}
+
+.size-project2 {
+    width: 400px; 
+    height: 200px; 
+}
+
+
+#about img {
+    max-width: 100%;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px rgba(141, 113, 14, 0.3);
+}
+
+#about p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-top: 20px;
+}
+
+
+#skills {
+    background-color: #f7f7f7;
+    padding: 40px;
+    text-align: center;
+}
+
+#skills ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#skills li {
+    display: inline-block;
+    margin: 5px;
+    background-color: #781fa9;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+#Certifications {
+    background-color: #f7f7f7;
+    padding: 40px;
+    text-align: center;
+}
+
+#certifications ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#certifications li {
+    display: inline-block;
+    margin: 5px;
+    background-color: #781fa9;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+
+#projects {
+    background-color: #E6E6FA;
+    padding: 40px;
+}
+
+.project {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.project img {
+    max-width: 100%;
+}
+
+.project h3 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.project p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-top: 10px;
+}
+
+
+#resume {
+    background-color: #fff;
+    padding: 40px;
+    text-align: center;
+}
+
+#resume a {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+#resume a:hover {
+    background-color: #78C7C7;
+
+}
+
+
+#contact {
+    background-color: #f7f7f7;
+    padding: 40px;
+    text-align: center;
+}
+
+#contact p {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+
+footer {
+    background-color: #78C7C7;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer p {
+    font-size: 16px;
+}
+
+
+
